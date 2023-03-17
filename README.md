@@ -4,7 +4,7 @@ This is a NextJS starter pack that consists of React components, and styled Comp
 
 ## Installation
 
-To install the package use
+To install the node modules use
 
 ```bash
 npm i
